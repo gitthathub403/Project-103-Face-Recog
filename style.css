@@ -1,0 +1,29 @@
+body {
+    font-family: 'Silkscreen', sans-serif; 
+    background-color: rgb(240, 206, 236);
+}
+
+#capture_button {
+    background-color: rgb(204, 137, 181);
+    color: white;
+}
+
+#identify_button {
+    background-color: rgb(163, 92, 153);
+    color: white;
+}
+
+#result_object_name, #result_object_accuracy, .name_of_objects {
+    color:rgb(163, 92, 153);
+}
+
+.heading {
+    width:80%;
+    font-size: 25px;
+}
+
+#camera {
+    width: 350px;
+    height: 350px;
+    border: 2px dotted rgb(163, 92, 143);
+}
